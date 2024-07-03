@@ -7,8 +7,9 @@ I am Eve! If you see a project we could collaborate 👯‍♀️, reach out.
 ☀️ I am a Data oriented person, with strong interest in AI. 
 🖥️ I code with PyCharm, Visual Studio Code, JupyterLab and RStudio.
 
-![Your GIF Description](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FsaGlsNHVjOW96azhndWt0MmZvMmNlb3MzYmtmYzE5cDczbHMzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif) 
 
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FsaGlsNHVjOW96azhndWt0MmZvMmNlb3MzYmtmYzE5cDczbHMzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif" width="300" alt="Your GIF Description">
 
 <!--
 **Evepp/evepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
