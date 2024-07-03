@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 🌟
+I am Eve! If you see a project we could collaborate 👯‍♀️, reach out. 
+📫 How to reach me: 
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/evelynpomasqui/)
+
+## About me 
+☀️ I am a Data oriented person, with strong interest in AI. 
+🖥️ I code with PyCharm, Visual Studio Code, JupyterLab and RStudio.
+
 
 <!--
 **Evepp/evepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
