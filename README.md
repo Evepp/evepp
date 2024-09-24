@@ -6,6 +6,9 @@ I am Eve! If you see a project we could collaborate 👯‍♀️, reach out.
 ## About me 
 🔬I am a data person with a strong interest in behavioral science, philosophy, social sciences, and AI tools. 
 
+[List of projects and risks involving them](https://docs.google.com/spreadsheets/d/14kHAXZJNWorzid48NFDr6Ulr2KEXzGkcNBpyflRLklA/edit?usp=sharing) 
+
+
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FsaGlsNHVjOW96azhndWt0MmZvMmNlb3MzYmtmYzE5cDczbHMzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif" width="200" alt="Your GIF Description">
 
