@@ -1,10 +1,10 @@
 ## Hi there 🌟
 I am Eve! If you see a project we could collaborate 👯‍♀️, reach out. 
 📫 How to reach me: 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/evelynpomasqui/)
+✉️ evelyn.pomasqui@gmail.com
 
 ## About me 
-🔬I am a data person with a strong interest in behavioral science, philosophy, social sciences, and AI tools. 
+🔬I am a data person. 
 
 [List of projects and risks involving them](https://docs.google.com/spreadsheets/d/14kHAXZJNWorzid48NFDr6Ulr2KEXzGkcNBpyflRLklA/edit?usp=sharing) 
 
