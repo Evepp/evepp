@@ -1,12 +1,10 @@
 ## Hi there 🌟
-I am Eve! If you see a project we could collaborate 👯‍♀️, reach out. 
+I am Eve! If you see a project we could collaborate 👯‍♀️, reach out. I am mostly invested on PowerBI, but I understand Python and R. 
 📫 How to reach me: 
 ✉️ evelyn.pomasqui@gmail.com
 
 ## About me 
-🔬I am a data person. 
-
-[List of projects and risks involving them](https://docs.google.com/spreadsheets/d/14kHAXZJNWorzid48NFDr6Ulr2KEXzGkcNBpyflRLklA/edit?usp=sharing) 
+🔬 I am me
 
 
 
