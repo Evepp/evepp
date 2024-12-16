@@ -1,5 +1,5 @@
 ## Hi there 🌟
-I am Eve! If you see a project we could collaborate 👯‍♀️, reach out. I am mostly invested on PowerBI, but I understand Python and R. 
+I am Eve! If you see a project we could collaborate 👯‍♀️, reach out. I am mostly invested in PowerBI, but I understand Python and R. 
 📫 How to reach me: 
 ✉️ evelyn.pomasqui@gmail.com
 
