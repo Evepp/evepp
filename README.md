@@ -5,7 +5,7 @@ I am Eve! If you see a project we could collaborate 👯‍♀️, reach out. I 
 
 
 ## About me 
-🔬 I am me
+🔬 I am me. I like business, finance and dancing. 
 
 
 
