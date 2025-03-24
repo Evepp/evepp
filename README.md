@@ -1,11 +1,11 @@
 ## Hi there 🌟
-I am Eve! If you see a project we could collaborate 👯‍♀️, reach out. I am mostly invested in PowerBI, but I understand Python and R. 
+I am Eve! If you see a project we could collaborate 👯‍♀️, reach out. 
 📫 How to reach me: 
 ✉️ evelyn.pomasqui@gmail.com
 
 
 ## About me 
-🔬 I am me. I like business, finance and dancing. Oh ofc, data!
+🔬 I am me. I like business, finance and dancing. Oh ofc, programing!
 
 
 
