@@ -1,11 +1,15 @@
 ## Hi there 🌟
 I am Eve! If you see a project we could collaborate 👯‍♀️, reach out. 
+I do projects for fun or cause I am curious about.
+So, probably you can pick my curiosity with another project. 
+Few projects but I like them.
+
 📫 How to reach me: 
 ✉️ evelyn.pomasqui@gmail.com
 
 
 ## About me 
-🔬 I am me. I like business, finance and dancing. Oh ofc, programing!
+🔬 I have an algorithmic mindset so born to be programmer, specially in data analytics, but actually I am passionate about business, health and psychology. 
 
 
 
