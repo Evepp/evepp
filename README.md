@@ -3,6 +3,7 @@ I am Eve! If you see a project we could collaborate 👯‍♀️, reach out.
 I do projects for fun or cause I am curious about.
 So, probably you can pick my curiosity with another project. 
 Few projects but I like them.
+Oh, btw, if you look for making anything in optimizing a system. I am your girl !
 
 📫 How to reach me: 
 ✉️ evelyn.pomasqui@gmail.com
