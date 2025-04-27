@@ -10,7 +10,7 @@ Oh, btw, if you look for making anything in optimizing a system. I am your girl 
 
 
 ## About me 
-🔬 I have an algorithmic mindset so born to be programmer, specially in data analytics, but actually I am passionate about business, health and psychology. 
+🔬 I have an algorithmic mindset so born to be programmer, specially in data analytics, but actually I am passionate about business.
 
 
 
